@@ -7,8 +7,7 @@
     "test": "tap test/index.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git://github.com/doxout/anydb-sql.git"
+    "type": "git"
   },
   "typings": "./d.ts/anydb-sql-commonjs.d.ts",
   "author": "spion",
