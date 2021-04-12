@@ -1,6 +1,6 @@
 {
   "name": "anydb-sql-fork-publish",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "description": "Minimal ORM for mysql, postgresql and sqlite with complete arbitrary SQL query support (based on brianc's query builder sql)",
   "main": "anydb-sql.js",
   "scripts": {
@@ -33,6 +33,7 @@
   "dependencies": {
     "any-db": "^2.1.0",
     "any-db-mysql-fork-publish": "^2.1.3",
+    "any-db-mysql-migrations-fork-publish": "^2.4.4",
     "any-db-postgres": "^2.1.3",
     "any-db-transaction": "^2.2.1",
     "bluebird": "^2.3.6",
